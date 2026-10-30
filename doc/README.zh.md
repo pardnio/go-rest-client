@@ -1,6 +1,9 @@
 > [!NOTE]
 > 此 README 由 [SKILL](https://github.com/agenvoy/skill-readme-generate) 生成，英文版請參閱 [這裡](../README.md)。
 
+> [!WARNING]
+> **已於 2026-10-31 封存。** go-rest-client 不再維護；原始碼與 `go install` 安裝方式仍可使用，但不再發布新功能、錯誤修正或安全性更新，也不再受理 issue 與 pull request。
+
 ***
 
 <p align="center">
